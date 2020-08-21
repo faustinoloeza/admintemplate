@@ -2,9 +2,9 @@ Admin template example I clone this repo https://github.com/tailwindtoolbox/Admi
 
 Admin template ejemplo, clone este repositorio https://github.com/tailwindtoolbox/Admin-Template y le agregue algunos elementos, esta versión no está actualizada ni mantenida por el creador original.
 
-![](img\admin.jpg)
+![](https://github.com/faustinoloeza/admintemplate/blob/master/img/admin.jpg)
 
-![](img\admin2.jpg)
+![](https://github.com/faustinoloeza/admintemplate/blob/master/img/admin2.jpg)
 
 ## Getting Started
 
